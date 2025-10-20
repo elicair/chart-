@@ -1,4 +1,4 @@
-b<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 </head>
@@ -24,6 +24,11 @@ b<!DOCTYPE html>
 <td>Row 3, Col 1</td>
 <td>Row 3, Col 2</td>
 <td>Row 3, Col 3</td>
+</tr>
+<tr>
+<td>Row 4, Col 1</td>
+<td>Row 4, Col 2</td>
+<td>Row 4, Col 3</td>
 </tr>
 </tbody>
 </table>
