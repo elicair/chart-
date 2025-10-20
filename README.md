@@ -31,7 +31,7 @@
 </tr>
 <ul>
   <li>texas sells the most ford trucks</li>
-  <li>Nissan sells the least trucks in texas/li>
+  <li>Nissan sells the least trucks in texas</li>
   <li>ford sells the most out of any company on the chart</li>
 </ul>
 
