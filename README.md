@@ -12,22 +12,22 @@
 </thead>
 <tbody>
 <tr>
-<td>Row 1, Col 1</td>
-<td>Row 1, Col 2</td>
-<td>Row 1, Col 3</td>
-<td>Row 1, Col 4</td>
+<td>ford trucks sold, 124,978</td>
+<td>toyota trucks sold, 54,561 </td>
+<td>ford trucks sold, 80,982</td>
+<td>ford trucks sold, 58,880</td>
 </tr>
 <tr>
-<td>Row 2, Col 1</td>
-<td>Row 2, Col 2</td>
-<td>Row 2, Col 3</td>
-<td>Row 2, Col 4</td>
+<td>chevy trucks sold, 92,211</td>
+<td>dodge trucks sold, 81,916</td>
+<td>dodge trucks sold, 48,553</td>
+<td>dodge trucks sold, 32,428</td>
 </tr>
 <tr>
-<td>Row 3, Col 1</td>
-<td>Row 3, Col 2</td>
-<td>Row 3, Col 3</td>
-<td>Row 3, Col 4</td>
+<td>gmc trucks sold, 32,760</td>
+<td>Nissan trucks sold, 17,091/td>
+<td>chevy trucks sold, 61,500</td>
+<td>chevy trucks sold, 27,739</td>
 </tr>
 </tbody>
 </table>
