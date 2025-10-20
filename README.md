@@ -7,6 +7,7 @@
 <thead>
 <tr><th colspan="2">Merged Header (Spans 2 Columns)</th>
 <th>Header 3</th>
+<th>Header 4</th>
 </tr>
 </thead>
 <tbody>
