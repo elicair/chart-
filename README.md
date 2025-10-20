@@ -25,10 +25,16 @@
 </tr>
 <tr>
 <td>gmc trucks sold, 32,760</td>
-<td>Nissan trucks sold, 17,091/td>
+<td>Nissan trucks sold, 17,091</td>
 <td>chevy trucks sold, 61,500</td>
 <td>chevy trucks sold, 27,739</td>
 </tr>
+<ul>
+  <li>texas sells the most ford trucks</li>
+  <li>Nissan sells the least trucks in texas/li>
+  <li>ford sells the most out of any company on the chart</li>
+</ul>
+
 </tbody>
 </table>
 </body>
