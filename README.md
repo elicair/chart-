@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head> truck brand sales bye state.
 </head>
 <body>
 <table>
 <thead>
-<tr><th colspan="2">Merged Header (Spans 2 Columns)</th>
-<th>Header 3</th>
-<th>Header 4</th>
+<tr><th colspan="2">truck sales texas</th>
+<th>truck sales wisconsin</th>
+<th>truck sales montanta</th>
 </tr>
 </thead>
 <tbody>
